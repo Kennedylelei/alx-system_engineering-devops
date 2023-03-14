@@ -1,1 +1,1 @@
-#Shell initialization files
+Shell initialization files
